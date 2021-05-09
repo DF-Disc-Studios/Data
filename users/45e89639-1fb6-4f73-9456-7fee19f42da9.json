@@ -1,4 +1,5 @@
 {
   "name" : "TechStreet",
-  "perms" : 4
+  "perms" : 4,
+  "ranks" : "[Developer]
 }
