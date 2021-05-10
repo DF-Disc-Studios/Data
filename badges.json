@@ -1,6 +1,6 @@
 {
   "cbp_dev.image" : "§b⛏",
-  "cbp_dev.tooltip" : "§fCreative Build Plots Dev§7§o\nYou get this badge by developing\nCreative Build Plots",
+  "cbp_dev.tooltip" : "§fCreative Build Plots Dev§7\nYou get this badge by developing\nCreative Build Plots",
   "tl_dev.image" : "§a🧪",
-  "tl_dev.tooltip" : "§fCreative Build Plots Dev§7§o\nYou get this badge by developing\nThe Labs"
+  "tl_dev.tooltip" : "§fThe Labs Dev§7\nYou get this badge by developing\nThe Labs"
 }
